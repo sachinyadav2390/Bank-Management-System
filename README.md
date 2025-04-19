@@ -2,7 +2,6 @@
 
 🚀 Project Showcase :- Bank Management System
 🔧 Technologies Used :- Java, SQL
-📹 Attached :- Demo Video
 
 I’m excited to share my latest project – a Bank Management System built using Java and SQL. This system simulates core banking functionalities and demonstrates how backend operations can be handled efficiently using object-oriented programming and relational databases.
 
